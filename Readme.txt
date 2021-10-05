@@ -18,7 +18,6 @@ Cells are numbered first from origin and towards the y-axis firstly, and then mo
 
 ---OUTPUT---
 
---All logs are also printed to console explaining how I got to the solution by making different logical and physical splitting, but for overall final result, please consider the bottom section of the result i.e. " #### FINAL OUTPUT ####" section.
-There, all bucket data along with cell range and cell mapping is printed.
+--All logs are also printed to console explaining how I got to the solution by making different logical and physical splitting, but for overall final result, please consider the bottom section of the result i.e. " #### FINAL OUTPUT ####" section.There, all bucket data along with cell range and cell mapping is printed.
 
 
